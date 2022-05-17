@@ -1,8 +1,8 @@
 {
   "name": "my-app",
   "version": "0.1.0",
+  "homepage": "https://jennhe.github.io/oval",
   "private": true,
-  "homepage": "https://cs210.github.io/2022-Chia1/",
   "dependencies": {
     "@primer/octicons-react": "^13.0.0",
     "@testing-library/jest-dom": "^5.16.2",
